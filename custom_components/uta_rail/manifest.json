@@ -1,0 +1,14 @@
+{
+  "domain": "uta_rail",
+  "name": "UTA Rail",
+  "codeowners": ["@craigthompson"],
+  "config_flow": true,
+  "dependencies": ["http"],
+  "documentation": "https://github.com/craigthompson/ha-uta-rail",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/craigthompson/ha-uta-rail/issues",
+  "requirements": [],
+  "single_config_entry": true,
+  "version": "1.0.0"
+}

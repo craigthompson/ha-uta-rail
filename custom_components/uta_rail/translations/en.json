@@ -1,0 +1,10 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "UTA Rail",
+        "description": "Add live FrontRunner and TRAX train positions from UTA's public feeds."
+      }
+    }
+  }
+}
